@@ -1,16 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Dedicated & hard-working developer with your interest in mind.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello There, I'm MrBeanGuy, You can call me Bean or Beanie!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My Skills:
 
-What else do you need?
+- 3+ Years in JavaScript Development.
+- 2+ Years in Discord Moderation.
 
-### My story
+My Weaknesses:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- I have trouble saying “no.”
+- It has been difficult for me to work with certain personalities.
+- It can be difficult for me to maintain a healthy work/life balance.
+
+Conclusion:
+
+I hope you all have a great day, and I hope you enjoy reading my entries.
