@@ -2,6 +2,7 @@
 layout: post
 title: What are Discord Threads?
 subtitle: The newest Discord BETA Feature.
+thumbnail-img: https://yt3.ggpht.com/ytc/AKedOLQc1OCf9gztVmcVnmI_41uN9axrRP8wd4a-GflFRQ=s900-c-k-c0x00ffffff-no-rj
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/discord.jpg
 tags: [discord, developers, beta]
